@@ -1,0 +1,20 @@
+body {
+    background: #333;
+}
+
+label {
+    color: #FFF;
+    display: block;
+}
+
+.sunken_ship {
+    background:url('https://archive.org/download/5SecondsOfSilence/sunken_ship.gif') no-repeat;
+}
+
+.sea {
+    background:url('https://ia902603.us.archive.org/12/items/smrpgsea-bg/SMRPGSeaBG.png') no-repeat;
+}
+
+.controls {
+    display: none;
+}
